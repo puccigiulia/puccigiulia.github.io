@@ -1,3 +1,4 @@
+---
 title: "Giulia Pucci"
 #image: ![Giulia Pucci](img/giulia4.jpg){.small-image}
 about:
@@ -8,12 +9,12 @@ about:
     - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/giulia-pucci/"
+    - text: Github
+      icon: github 
+      url: "https://github.com/giuliapucci98"
     - text: ResearchGate
       icon: journal
       url: "https://www.researchgate.net/profile/Giulia-Pucci-2"
-    - text: GitHub
-      icon: github
-      url: "https://github.com/puccigiulia"
     - text: Email
       icon: envelope
       url: "mailto:pucci@kth.se"
@@ -25,11 +26,15 @@ comments: false
 ## About me
 I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor's and Master's degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory.
 
+
 You can view my CV [here](cv.pdf).
+
 
 **Interests:** Control Theory, Stochastic Calculus, SDEs, BSDEs, ML and Neural Networks, Energy Markets,  Mathematical Finance, Pollution Control
 
+
 ## Inquiries
-If you have any questions about my work or are interested in collaborating, please don't hesitate to [contact me](mailto:pucci@kth.se).
+If you have any questions about my work or are interested in collaborating, please don't hesitate to [contact me](mailto:pucci@kth.se). 
 
 :::
+
