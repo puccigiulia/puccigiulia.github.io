@@ -11,6 +11,10 @@ Agram, N., Pucci, G., & Øksendal, B. (2024). [Impulse Control of Conditional Mc
 
 ### Preprints
 
+
+Agram, N., Benth, F.E., Pucci, G., & Rems, J. (2025) [A Deep Learning Approach to Renewable Capacity Installation under Jump Uncertainty](https://arxiv.org/abs/2509.12364). *arXiv preprint*, arXiv:2503.00880.
+
+
 Agram, N., & Pucci, G. (2025). [Deep BSVIEs Parametrization and Learning-Based Applications](https://arxiv.org/abs/2507.01948). *arXiv preprint*, arXiv:2507.01948.
 
 
@@ -18,3 +22,5 @@ Agram, N., Arharas, I., Rems, J., & Pucci, G. (2025). [Deep Learning for Energy 
 
 
 Gozzi, F., Leocata, M., & Pucci, G. (2024). [Network-Based Optimal Control of Pollution Growth](https://arxiv.org/abs/2406.15338). *arXiv preprint*, arXiv:2406.15338.
+
+
