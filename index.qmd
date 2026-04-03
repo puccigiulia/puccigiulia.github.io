@@ -24,13 +24,13 @@ comments: false
 ::: {.column-page}
 
 ## About me
-I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor's and Master's degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory.
+I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor's and Master's degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory and Machine Learning applications.
 
 
 You can view my CV [here](cv.pdf).
 
 
-**Interests:** Control Theory, Stochastic Calculus, SDEs, BSDEs, ML and Neural Networks, Energy Markets,  Mathematical Finance, Pollution Control
+**Interests:** Control Theory, Stochastic Calculus, SDEs, BSDEs, BSVIEs, Deep Learning, Energy Markets, Mathematical Finance, Pollution Control
 
 
 ## Inquiries

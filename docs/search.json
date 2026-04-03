@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Giulia Pucci",
     "section": "",
-    "text": "I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor’s and Master’s degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory.\nYou can view my CV here.\nInterests: Control Theory, Stochastic Calculus, SDEs, BSDEs, ML and Neural Networks, Energy Markets, Mathematical Finance, Pollution Control\n\n\n\nIf you have any questions about my work or are interested in collaborating, please don’t hesitate to contact me."
+    "text": "I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor’s and Master’s degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory and Machine Learning applications.\nYou can view my CV here.\nInterests: Control Theory, Stochastic Calculus, SDEs, BSDEs, BSVIEs, Deep Learning, Energy Markets, Mathematical Finance, Pollution Control\n\n\n\nIf you have any questions about my work or are interested in collaborating, please don’t hesitate to contact me."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Giulia Pucci",
     "section": "",
-    "text": "I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor’s and Master’s degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory.\nYou can view my CV here.\nInterests: Control Theory, Stochastic Calculus, SDEs, BSDEs, ML and Neural Networks, Energy Markets, Mathematical Finance, Pollution Control"
+    "text": "I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor’s and Master’s degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory and Machine Learning applications.\nYou can view my CV here.\nInterests: Control Theory, Stochastic Calculus, SDEs, BSDEs, BSVIEs, Deep Learning, Energy Markets, Mathematical Finance, Pollution Control"
   },
   {
     "objectID": "index.html#inquiries",
@@ -25,6 +25,6 @@
     "href": "projects.html",
     "title": "Publications",
     "section": "",
-    "text": "Publications\nAgram, N., Espen Benth, F., & Pucci, G. (2025). Installation of Renewable Capacities to Meet Energy Demand and Emission Constraints under Uncertainty. IMA Journal of Management Mathematics, dpaf023.\nAgram, N., Pucci, G., & Øksendal, B. (2024). Impulse Control of Conditional McKean–Vlasov Jump Diffusions. Journal of Optimization Theory and Applications, 200(3), 1100–1130.\n\n\nPreprints\nAgram, N., Benth, F.E., Pucci, G., & Rems, J. (2025) A Deep Learning Approach to Renewable Capacity Installation under Jump Uncertainty. arXiv preprint, arXiv:2503.00880.\nAgram, N., & Pucci, G. (2025). Deep BSVIEs Parametrization and Learning-Based Applications. arXiv preprint, arXiv:2507.01948.\nAgram, N., Arharas, I., Rems, J., & Pucci, G. (2025). Deep Learning for Energy Market Contracts: Dynkin Game with Doubly RBSDEs. arXiv preprint, arXiv:2503.00880.\nGozzi, F., Leocata, M., & Pucci, G. (2024). Network-Based Optimal Control of Pollution Growth. arXiv preprint, arXiv:2406.15338."
+    "text": "Publications\nGozzi, F., Leocata, M., & Pucci, G. (2026). Network-Based Optimal Control of Pollution Growth. European Journal of Operation Research.\nAgram, N., & Pucci, G. (2026). Deep BSVIEs Parametrization and Learning-Based Applications. Neural Networks.\nAgram, N., Espen Benth, F., & Pucci, G. (2025). Installation of Renewable Capacities to Meet Energy Demand and Emission Constraints under Uncertainty. IMA Journal of Management Mathematics, dpaf023.\nAgram, N., Pucci, G., & Øksendal, B. (2024). Impulse Control of Conditional McKean–Vlasov Jump Diffusions. Journal of Optimization Theory and Applications, 200(3), 1100–1130.\n\n\nPreprints\nAgram, N., Benth, F.E., Pucci, G., & Rems, J. (2025) A Deep Learning Approach to Renewable Capacity Installation under Jump Uncertainty. arXiv preprint, arXiv:2503.00880.\nAgram, N., Arharas, I., Rems, J., & Pucci, G. (2025). Deep Learning for Energy Market Contracts: Dynkin Game with Doubly RBSDEs. arXiv preprint, arXiv:2503.00880."
   }
 ]
