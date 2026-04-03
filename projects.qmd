@@ -6,7 +6,7 @@ editor: visual
 
 ### Publications
 
-Gozzi, F., Leocata, M., & Pucci, G. (2026). [Network-Based Optimal Control of Pollution Growth]({https://www.sciencedirect.com/science/article/pii/S0377221726002353). European Journal of Operation Research.
+Gozzi, F., Leocata, M., & Pucci, G. (2026). [Network-Based Optimal Control of Pollution Growth](%7Bhttps://www.sciencedirect.com/science/article/pii/S0377221726002353). European Journal of Operational Research.
 
 Agram, N., & Pucci, G. (2026). [Deep BSVIEs Parametrization and Learning-Based Applications](https://www.sciencedirect.com/science/article/pii/S0893608026001747). Neural Networks.
 
