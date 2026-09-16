@@ -6,16 +6,14 @@ editor: visual
 
 ### Publications
 
-Gozzi, F., Leocata, M., & Pucci, G. (2026). [Network-Based Optimal Control of Pollution Growth](%7Bhttps://www.sciencedirect.com/science/article/pii/S0377221726002353). European Journal of Operational Research.
+Agram, N., Arharas, I., Rems, J., & Pucci, G. (2026). [Deep Learning for Energy Market Contracts: Dynkin Game with Doubly RBSDEs](#0). *SIAM Journal on Financial Mathematics*.
 
-Agram, N., & Pucci, G. (2026). [Deep BSVIEs Parametrization and Learning-Based Applications](https://www.sciencedirect.com/science/article/pii/S0893608026001747). Neural Networks.
+Agram, N., Benth, F.E., Pucci, G., & Rems, J. (2026) [A Deep Learning Approach to Renewable Capacity Installation under Jump Uncertainty](https://www.sciencedirect.com/science/article/pii/S0378475426002685). *Mathematics and Computers in Simulation.*
+
+Gozzi, F., Leocata, M., & Pucci, G. (2026). [Network-Based Optimal Control of Pollution Growth](%7Bhttps://www.sciencedirect.com/science/article/pii/S0377221726002353). *European Journal of Operational Research.*
+
+Agram, N., & Pucci, G. (2026). [Deep BSVIEs Parametrization and Learning-Based Applications](https://www.sciencedirect.com/science/article/pii/S0893608026001747). *Neural Networks.*
 
 Agram, N., Espen Benth, F., & Pucci, G. (2025). [Installation of Renewable Capacities to Meet Energy Demand and Emission Constraints under Uncertainty](https://academic.oup.com/imaman/advance-article/doi/10.1093/imaman/dpaf023/8163474). *IMA Journal of Management Mathematics*, dpaf023.
 
 Agram, N., Pucci, G., & Øksendal, B. (2024). [Impulse Control of Conditional McKean–Vlasov Jump Diffusions](https://link.springer.com/article/10.1007/s10957-023-02370-6). *Journal of Optimization Theory and Applications*, 200(3), 1100–1130.
-
-### Preprints
-
-Agram, N., Benth, F.E., Pucci, G., & Rems, J. (2025) [A Deep Learning Approach to Renewable Capacity Installation under Jump Uncertainty](https://arxiv.org/abs/2509.12364). *arXiv preprint*, arXiv:2503.00880.
-
-Agram, N., Arharas, I., Rems, J., & Pucci, G. (2025). [Deep Learning for Energy Market Contracts: Dynkin Game with Doubly RBSDEs](https://arxiv.org/abs/2503.00880). *arXiv preprint*, arXiv:2503.00880.

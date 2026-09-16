@@ -24,7 +24,7 @@ comments: false
 ::: {.column-page}
 
 ## About me
-I am a PhD student in Applied Mathematics at KTH in Stockholm, Sweden. I completed both my Bachelor's and Master's degrees at La Sapienza University of Rome. My research focuses on Stochastic Control theory and Machine Learning applications.
+I am an OMI-Hooke Research Fellow at the University of Oxford, based jointly at the Oxford-Man Institute and the Mathematical Institute. I am also a Research Fellow at Reuben College. I completed my PhD in Applied Mathematics at KTH in Stockholm, Sweden under the supervision of Nacira Agram. My research focuses on Stochastic Control theory and Machine Learning applications.
 
 
 You can view my CV [here](cv.pdf).
